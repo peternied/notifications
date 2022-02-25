@@ -19,6 +19,7 @@ buildscript {
         // For local publish dependency
         mavenLocal()
         mavenCentral()
+        jcenter()
     }
 
     dependencies {
